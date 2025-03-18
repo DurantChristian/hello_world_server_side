@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DurantChristian/hello_world_server_side/issues"
   },
-  "homepage": "https://github.com/DurantChristian/hello_world_server_side#readme"
+  "homepage": "https://github.com/DurantChristian/hello_world_server_side#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
